@@ -1,0 +1,6 @@
+[project]
+name = "petanix-petanix-chia-docker"
+slug = "petanix-petanix-chia-docker"
+
+[amem]
+server = "https://amem.flusci.org"
